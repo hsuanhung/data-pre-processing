@@ -1,6 +1,9 @@
-
-
 import pandas as pd
+
+'''
+This file is using to categories the column A3
+'''
+
 
 # old_file = pd.read_csv('3425_data.csv')
 old_file = pd.read_csv('3425_clear.csv')
