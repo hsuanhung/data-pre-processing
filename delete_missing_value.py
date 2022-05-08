@@ -1,5 +1,9 @@
 import pandas as pd
 
+'''
+This file is using for delete the row which has missing value.
+'''
+
 old_file = pd.read_csv('3425_new.csv')
 # new_file = pd.read_csv('3425_clear.csv')
 
