@@ -1,5 +1,10 @@
 import pandas as pd
 
+
+'''
+This file convert binary-coding into num-coding.
+'''
+
 old_file = pd.read_csv('3425_clear.csv')
 new_file = pd.read_csv('new_output.csv')
 
