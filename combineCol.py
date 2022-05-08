@@ -1,6 +1,10 @@
 from hashlib import new
 import pandas as pd
 
+'''
+this py file is using to combine the element of columns into a new column.
+'''
+
 old_file = pd.read_csv('3425_reverse.csv')
 new_file = pd.read_csv('new_output.csv')
 
